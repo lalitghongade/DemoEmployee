@@ -19,6 +19,7 @@
 - **B. Devops**
   - Docker
   - Jenkins
+  - AWS Ec2
   
   
 ## Getting Started
