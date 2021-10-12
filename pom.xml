@@ -70,6 +70,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>demo-employee</finalName>
     </build>
 
 </project>
