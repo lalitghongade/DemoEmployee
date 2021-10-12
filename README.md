@@ -35,6 +35,11 @@ git clone https://github.com/lalitghongade/DemoEmployee.git
 6. Type git clone, and then paste the URL you copied earlier.
 
 7. Press Enter to create your local clone.
+8. you can check this RestAPI live on follwing link.
+
+```Employee RestAPI
+http://54.146.205.172:2020/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
+```
 
 ## Contributors
 - [Lalit Ghongade](https://github.com/lalitghongade)
