@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Contributors-4-red?style=for-the-badge&logo=github)  ![](https://img.shields.io/badge/Branches-18-yellow?style=for-the-badge) ![](https://img.shields.io/badge/Spring%20Boot-v2.4.10-success?style=for-the-badge&logo=spring)
+![](https://img.shields.io/badge/Spring%20Boot-v2.4.10-success?style=for-the-badge&logo=spring)
 ![](https://img.shields.io/badge/Maven-v3.8.1-informational?style=for-the-badge) 
 
 
